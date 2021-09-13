@@ -1,0 +1,75 @@
+body{
+
+    background-image: url(image/The\ Last\ of\ us\ 2.png);
+    background-attachment: scroll;
+}
+
+
+#conteudo1{
+    color: blue;
+    font-size: 60px;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 1px 1px 1px 1px;
+    border-style: solid;
+    padding-left: 10px;
+    border-color: #4b596a;
+    border-radius: 3rem;
+    margin: 50px;
+}
+
+
+.imagem1{
+    background-color: aliceblue;
+    background-image: url(https://images7.alphacoders.com/777/thumb-350-777425.jpg);
+    background-repeat: no-repeat;
+    width: 480px;
+    height: 5cm;
+    color: rgb(12, 12, 12);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    border: 1px 1px 1px 1px;
+    border-style: solid;
+    padding: 15px 15px;
+    border-color: #151516;
+    margin: 20px;
+    float: left;
+}
+
+
+
+.imagem2{
+    background-color: aliceblue;
+    background-image: url(https://images2.alphacoders.com/927/thumb-350-927608.jpg);
+    background-repeat: no-repeat;
+    width: 320px;
+    height: 189px;
+    color: rgb(12, 12, 12);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    border: 1px 1px 1px 1px;
+    border-style: solid;
+    padding: 15px 15px;
+    border-color: #151516;
+    margin: 20px;
+    float: left;
+}
+
+
+
+
+.imagem3{
+    background-color: aliceblue;
+    background-image: url(https://besthqwallpapers.com/Uploads/27-11-2017/30754/thumb2-the-last-of-us-part-ii-4k-poster-2018-games-the-last-of-us-part-2.jpg);
+    background-repeat: no-repeat;
+    width: 680px;
+    height: 350px;
+    color: rgb(12, 12, 12);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    border: 1px 1px 1px 1px;
+    border-style: solid;
+    padding: 15px 15px;
+    border-color: #151516;
+    margin: 20px;
+    float: left;
+}

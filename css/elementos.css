@@ -1,0 +1,55 @@
+.elementos1{
+width: 5cm;
+height: 5cm;
+border: 1px 1px 1px 1px;
+border-style: solid;
+border-color: rgb(11, 71, 71);
+margin: 20px;
+margin-bottom: 6px;
+float: right ;
+}
+
+input{
+border-color: transparent;
+border-radius: 2rem;
+background-color: #1f5bb4;
+color: rgb(252, 252, 252);
+height: 50px;
+width: 150px;
+font-size: 19px;
+font-family: Arial, Helvetica, sans-serif;
+text-align: center;
+margin: 15px 15px;
+cursor: pointer;
+
+
+}
+input:hover{
+    text-decoration: underline;
+    background-color:#151516 ;
+}
+
+
+
+.elementos2{
+    background-image: url(Computer.png);
+    width: 683px;
+    height: 650px;
+    border: 1px 1px 1px 1px;
+    margin: 20px;
+    margin-bottom: 6px;
+    float: right ;
+    }
+
+
+
+    .elementos3{
+        width: 5cm;
+        height: 5cm;
+        border: 1px 1px 1px 1px;
+        border-style: solid;
+        border-color: rgb(11, 71, 71);
+        margin: 20px;
+        margin-bottom: 6px;
+        float: right ;
+        }
